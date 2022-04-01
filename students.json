@@ -1,0 +1,82 @@
+{
+  "Student 1": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  },
+  "Student 2": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  },
+  "Student 3": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  },
+  "Student 4": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  },
+  "Student 5": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  },
+  "Student 6": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  },
+  "Student 7": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  },
+  "Student 8": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  },
+  "Student 9": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  },
+  "Student 10": {
+    "name": "Name",
+    "desc": "Description of student",
+    "photo": "aps_icon.png",
+    "quote": "Placeholder",
+    "socials": {},
+    "email": null
+  }
+}
